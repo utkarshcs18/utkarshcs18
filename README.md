@@ -1,11 +1,27 @@
-- 👋 Hi, I’m utkarsh a 20 year old.
-- 👀 I’m interested in learning more about ML...
-- 🌱 I’m currently learning Cpp & Python...
-- 📫 You can reach me through my mail - utkarshkumar.cs18@gmail.com
-- 😄 Pronouns: he/his...
-- ⚡ Fun fact: Fascinated to automate stuff and to make small-scaled hobby projects...
+# 👋 Hello, I'm Utkarsh!
 
-<!---
-utkarshcs18/utkarshcs18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **1st-year student** passionate about learning and building projects. Currently, I'm diving into **C++** and **Python** after completing **C Language**. 
+I have a strong interest in **Machine Learning** and enjoy working on hands-on projects that allow me to explore new technologies and improve my skills.
+
+## 🔭 Current Focus:
+- **C++** and **Python** development
+- **Machine Learning** projects and exploration
+- Building personal projects to solve real-world problems
+
+## 🌱 Currently Learning:
+- Advanced **C++**
+- Various **Machine Learning** algorithms and techniques
+- Enhancing my problem-solving skills and algorithm design
+
+## 💬 Ask me about:
+- **C Language**, **C++**, and **Python**
+- **Project-based learning** and building useful applications
+
+## 📚 Fun Fact:
+I love working on **practical projects** that help me apply what I’ve learned. My goal is to grow my skills and contribute to the tech community!
+
+---
+
+## 📫 How to reach me:
+- [GitHub](https://github.com/utkarshcs18)
+- [Email](utkarshkumar.cs18@gmail.com)
