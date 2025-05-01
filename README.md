@@ -24,4 +24,4 @@ I love working on **practical projects** that help me apply what I’ve learned.
 
 ## 📫 How to reach me:
 - [GitHub❄️](https://github.com/utkarshcs18)
-- [Email 📧](https://mail.google.com/utkarshkumar.cs18@gmail.com)
+- [Email 📧](utkarshkumar.cs18@gmail.com)
