@@ -24,7 +24,7 @@
 
 ---
 
-##  <p align="center">
+## <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Language & Tools+⚡️" alt="Divider"/>
 </p>
 
