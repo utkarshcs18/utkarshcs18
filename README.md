@@ -23,26 +23,33 @@
 
 
 ---
-<td align="center" width="50%">
+  <tr>
+    <!-- Technologies Section -->
+    <td align="center" width="50%">
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Technologies+⚡️" alt="Technologies" />
       </p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) &nbsp;
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ <p align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      </p>
+</td>
 
----
+  
  <td align="center" width="50%">
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Stats+⚡️" alt="Stats" />
       </p>
+     <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" alt="GitHub Stats" />
+      </p>
+    </td>
+  </tr>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" />
-</p>
 
 ---
 <p align="center">
