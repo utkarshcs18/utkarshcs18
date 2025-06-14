@@ -56,7 +56,7 @@
 
 
 <a href="https://github.com/utkarshcs18/Gpalytics-ShowCase.git">
-<img src="https://github.com/user-attachments/assets/e0613c2e-b84d-4d07-8558-42e9d81b4145"
+<img src="https://github.com/utkarshcs18/GPAlytics/blob/main/profileproject.jpg?raw=true"
        length="40"
        width="110"
        style="vertical-align: middle;"/>
