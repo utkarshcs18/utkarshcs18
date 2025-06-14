@@ -39,8 +39,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Stats+⚡️" alt="Divider" />
 </p>
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" />
 </p>
@@ -49,9 +47,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Plots+⚡️" alt="Divider" />
 </p>
-
-## 🚀 My Projects
-
 
 <a href="https://github.com/utkarshcs18/Gpalytics-ShowCase.git">
 <img src="https://github.com/utkarshcs18/GPAlytics/blob/main/profileproject.jpg?raw=true"
@@ -64,8 +59,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Hyperlinks+⚡️" alt="Divider" />
 </p>
-
-## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshcs18)
 
