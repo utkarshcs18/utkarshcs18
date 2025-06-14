@@ -26,7 +26,7 @@
   <tr>
     <td align="center" width="50%">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= +Technologies+⚡️" alt="Technologies" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= Technologies+⚡️" alt="Technologies" />
       </p>
 
  <p align="left">
@@ -42,7 +42,7 @@
  
  <td align="center" width="50%">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= +Stats+⚡️" alt="Stats" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= Stats+⚡️" alt="Stats" />
       </p>
      <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" alt="GitHub Stats" />
@@ -53,7 +53,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= +Plots+⚡️" alt="Divider" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= Plots+⚡️" alt="Divider" />
 </p>
 
 <a href="https://github.com/utkarshcs18/Gpalytics-ShowCase.git">
@@ -65,7 +65,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= +Hyperlinks+⚡️" alt="Divider" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines= Hyperlinks+⚡️" alt="Divider" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshcs18)
