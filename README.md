@@ -23,6 +23,7 @@
 
 
 ---
+<table></table>
   <tr>
     <!-- Technologies Section -->
     <td align="center" width="50%">
@@ -49,7 +50,7 @@
       </p>
     </td>
   </tr>
-
+</table>
 
 ---
 <p align="center">
