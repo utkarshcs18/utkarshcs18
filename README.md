@@ -23,9 +23,10 @@
 
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Technologies+⚡️" alt="Divider" />
-</p>
+<td align="center" width="50%">
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Technologies+⚡️" alt="Technologies" />
+      </p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
@@ -34,9 +35,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vcenter=true&width=340&lines=⚡️+Stats+⚡️" alt="Divider" />
-</p>
+ <td align="center" width="50%">
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=⚡️+Stats+⚡️" alt="Stats" />
+      </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" />
