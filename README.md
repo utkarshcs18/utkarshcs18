@@ -1,5 +1,5 @@
 <p>
-     <h1 align="LEFT">Hey I'm Utkarsh.<img src="https://i.imgur.com/6Xv1eXH.png" width="30" /></h1>
+     <h1 align="LEFT">Hey I'm Utkarsh.<img src="" width="30" /></h1>
      
 <h3> A 1st‑Year Student, a Passionate developer and a Learner.</h3>
 </p>
