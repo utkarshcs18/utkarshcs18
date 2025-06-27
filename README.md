@@ -57,7 +57,7 @@
 </p>
 
 <a href="https://github.com/utkarshcs18/GPAlytics-ShowCase">
-<img src="https://github.com/utkarshcs18/GPAlytics/blob/main/profileproject.jpg?raw=true"
+<img src="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg"
        length="40"
        width="110"
        style="vertical-align: middle;"/>
