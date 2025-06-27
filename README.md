@@ -56,7 +56,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Plots+⚡️" alt="Divider" />
 </p>
 
-<a href="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg">
+<a href="https://github.com/utkarshcs18/GPAlytics-ShowCase">
 <img src="https://github.com/utkarshcs18/GPAlytics/blob/main/profileproject.jpg?raw=true"
        length="40"
        width="110"
