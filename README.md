@@ -61,10 +61,10 @@
 
 <p align="left">
   <a href="https://github.com/utkarshcs18/GPAlytics-ShowCase">
-    <img src="https://raw.githubusercontent.com/utkarshcs18/GPAlytics-ShowCase/main/logo.jpg" width="110" height="40" alt="GPAlytics" />
+    <img src="https://raw.githubusercontent.com/utkarshcs18/GPAlytics-ShowCase/main/logo.jpg" width="110" height="40" alt="GPAlytics"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/utkarshcs18/Aurex-ShowCase">
-    <img src="https://raw.githubusercontent.com/utkarshcs18/Aurex-ShowCase/main/logo.jpg" width="90" height="60" alt="AUREX" />
+    <img src="https://raw.githubusercontent.com/utkarshcs18/Aurex-ShowCase/main/logo.jpg" width="90" height="60" alt="AUREX"/>
   </a>
 </p>
 
