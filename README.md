@@ -59,10 +59,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Plots+⚡️" alt="Divider" />
 </p>
 
-<p align="left">
-[![GPAlytics](https://raw.githubusercontent.com/utkarshcs18/GPAlytics-ShowCase/main/logo.jpg)](https://github.com/utkarshcs18/GPAlytics-ShowCase) &nbsp;&nbsp;&nbsp;
-[![AUREX](https://raw.githubusercontent.com/utkarshcs18/Aurex-ShowCase/main/logo.jpg)](https://github.com/utkarshcs18/Aurex-ShowCase)
-</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+    <a href="https://github.com/utkarshcs18/GPAlytics-ShowCase.git" target="_blank" style="display:inline-block;">
+        <img src="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg?raw=true" width="120" style="border:none; outline:none; pointer-events:none;">
+    </a>
+    <a href="https://github.com/utkarshcs18/Aurex-ShowCase.git" target="_blank" style="display:inline-block;">
+        <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true" width="120" style="border:none; outline:none; pointer-events:none;">
+    </a>
+</div>
+
 
 ---
 <p align="center">
