@@ -68,8 +68,8 @@
 
 <a href="https://github.com/utkarshcs18/Aurex-ShowCase.git">
 <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true"
-       length="60"
-       width="90"
+       length="70"
+       width="95"
        style="vertical-align: middle;"/>
 </a>
 
