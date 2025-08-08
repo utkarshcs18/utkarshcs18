@@ -59,14 +59,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Plots+⚡️" alt="Divider" />
 </p>
 
-<a href="https://github.com/utkarshcs18/GPAlytics-ShowCase" style="text-decoration: none; margin-right: 20px;">
+<a href="https://github.com/utkarshcs18/GPAlytics-ShowCase" style="text-decoration: none; ">
   <img src="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg" 
        height="40" 
        width="110" 
        style="vertical-align: middle; border: none;">
 </a>
 
-<a href="https://github.com/utkarshcs18/Aurex-ShowCase" style="text-decoration: none;">
+<a href="https://github.com/utkarshcs18/Aurex-ShowCase" style="text-decoration: none;margin-right: 20px;">
   <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true" 
        height="60" 
        width="90" 
