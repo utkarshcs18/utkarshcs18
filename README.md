@@ -1,4 +1,4 @@
-<img width="4110" height="1594" alt="image" src="https://github.com/user-attachments/assets/c9fc1e75-19c3-4ad1-bb8f-2ac253ad3ad6" /><img width="4110" height="1594" alt="image" src="https://github.com/user-attachments/assets/69e84e96-f05d-4587-a719-f318628f0784" /><p>
+
      <h1 align="LEFT">Hey I'm Utkarsh <img src="https://github.com/user-attachments/assets/b8f097c4-46d4-4fbb-9a84-cc6344088440" width="30" /></h1>
      
 <h3> A 2nd‑Year Student, a Passionate developer and a Learner.</h3>
