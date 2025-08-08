@@ -1,5 +1,8 @@
+<h1 align="left">
+  Hey, I'm Utkarsh
+  <img src="https://github.com/user-attachments/assets/b8f097c4-46d4-4fbb-9a84-cc6344088440" width="40" />
+</h1>
 
-     <h1 align="LEFT">Hey I'm Utkarsh <img src="https://github.com/user-attachments/assets/b8f097c4-46d4-4fbb-9a84-cc6344088440" width="30" /></h1>
      
 <h3> A 2nd‑Year Student, a Passionate developer and a Learner.</h3>
 </p>
