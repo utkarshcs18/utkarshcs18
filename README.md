@@ -64,7 +64,7 @@
         <img src="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg?raw=true" width="120" style="border:none; outline:none; pointer-events:none;">
     </a>
     <a href="https://github.com/utkarshcs18/Aurex-ShowCase.git" target="_blank" style="display:inline-block;">
-        <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true" width="120" style="border:none; outline:none; pointer-events:none;">
+        <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true" width="90" style="border:none; outline:none; pointer-events:none;">
     </a>
 </div>
 
