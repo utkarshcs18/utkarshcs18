@@ -59,19 +59,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Plots+⚡️" alt="Divider" />
 </p>
 
-<a href="https://github.com/utkarshcs18/GPAlytics-ShowCase" style="text-decoration: none; ">
-  <img src="https://github.com/utkarshcs18/GPAlytics-ShowCase/blob/main/logo.jpg" 
-       height="40" 
-       width="110" 
-       style="vertical-align: middle; border: none;">
-</a>
+<p align="center">
+  <a href="https://github.com/utkarshcs18/GPAlytics-ShowCase">
+    <img src="https://raw.githubusercontent.com/utkarshcs18/GPAlytics-ShowCase/main/logo.jpg" width="110" height="40" alt="GPAlytics" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/utkarshcs18/Aurex-ShowCase">
+    <img src="https://raw.githubusercontent.com/utkarshcs18/Aurex-ShowCase/main/logo.jpg" width="90" height="60" alt="AUREX" />
+  </a>
+</p>
 
-<a href="https://github.com/utkarshcs18/Aurex-ShowCase" style="text-decoration: none;margin-right: 80px;">
-  <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true" 
-       height="60" 
-       width="90" 
-       style="vertical-align: middle; border: none;">
-</a>
 
 
 ---
