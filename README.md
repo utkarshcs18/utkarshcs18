@@ -66,7 +66,7 @@
        style="vertical-align: middle; border: none;">
 </a>
 
-<a href="https://github.com/utkarshcs18/Aurex-ShowCase" style="text-decoration: none;margin-right: 20px;">
+<a href="https://github.com/utkarshcs18/Aurex-ShowCase" style="text-decoration: none;margin-right: 80px;">
   <img src="https://github.com/utkarshcs18/Aurex-ShowCase/blob/main/logo.jpg?raw=true" 
        height="60" 
        width="90" 
