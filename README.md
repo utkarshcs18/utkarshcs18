@@ -45,7 +45,7 @@
  
  <td align="center" width="50%">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Stats+⚡️" alt="Stats" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Stats+⚡️" alt="Stats" />
       </p>
      <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" alt="GitHub Stats" />
