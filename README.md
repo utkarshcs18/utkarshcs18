@@ -23,7 +23,7 @@
 ---
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="50" height="529" alt="tech-stack"/>
+  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="100" height="1000" alt="tech-stack"/>
 </p>
     
 <div align="center">
@@ -46,10 +46,10 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
  <p align = "left">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="100" height="1000" alt="discord"/>
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord"/>
  </p>
  <p align = "left">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="100" height="1000" alt="twt"/>
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="twt"/>
  </p>
 
 ---
