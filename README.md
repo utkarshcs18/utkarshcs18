@@ -8,16 +8,12 @@
 
      
 <h3 align ="right" color ="red"> I write code.</h3>
-
-     
-<h2 align="center">🌙 About Me</h2>
-
 <p align="center">
   <em>
   A mind that wanders between logic and imagination.<br>
   I love creating things that speak — whether it’s through design, words, or rhythm.<br>
   I’m drawn to moments of silence, deep conversations, and the thrill of turning ideas into something real.<br><br>
-  Growth, to me, is art — and I’m here to keep evolving, learning, and building my own story one step at a time 🌿
+  Growth, to me, is art and I’m here to keep evolving, learning, and building my own story one step at a time 🌿
   </em>
 </p>
 
