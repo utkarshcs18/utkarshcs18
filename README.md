@@ -1,9 +1,10 @@
 <img width="100%" height="350" alt="hello" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
 <img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/line.gif"/>
 
-<h1 align="left">
+<h1 align="center">
   Hey, I'm Utkarsh
-  <img src="https://github.com/user-attachments/assets/b8f097c4-46d4-4fbb-9a84-cc6344088440" width="40" >
+  <img src="<img width="529" height="529" alt="image" src="https://github.com/user-attachments/assets/2f256a15-8a4c-403f-8944-fb0d8d080060" />
+" width="40" >
 </h1>
 
      
