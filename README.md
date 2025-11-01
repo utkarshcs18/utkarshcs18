@@ -24,7 +24,7 @@
   <tr>
     <td align="center" width="50%">
       <p align="right ">
-       <img alt ="tech-stack" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
+       <img width="40" height="529" alt ="tech-stack" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
       </p>
 
  <p align="left">
