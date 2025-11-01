@@ -21,9 +21,8 @@
 
 
 ---
-  <tr>
-    <td align="center" width="50%">
-       <img align="right " width="40" height="529" alt ="tech-stack" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
+
+<img align="right " width="40" height="529" alt ="tech-stack" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
       
 
  <p align="left">
@@ -32,8 +31,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      </p>
-</td>
+  </p>
 
 ---  
  
