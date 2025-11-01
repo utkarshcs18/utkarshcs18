@@ -23,8 +23,8 @@
 ---
   <tr>
     <td align="center" width="50%">
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vcenter=true&width=340&lines=Technologies+⚡️"  alt="Technologies" />
+      <p align="right ">
+       <img src = " https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
       </p>
 
  <p align="left">
