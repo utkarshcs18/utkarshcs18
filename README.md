@@ -23,7 +23,7 @@
 ---
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="50" height="529" alt="tech-stack" margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="50" height="529" alt="tech-stack" margin-left: 223px;" />
 </p>
     
 <div align="center">
