@@ -22,10 +22,11 @@
 
 ---
 
+<div >
 <img align="right " width="50" height="529" alt ="tech-stack" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif"/>
       
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,figma&theme=dark" />
+
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,figma&theme=dark" />
 </div>
 
 
