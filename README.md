@@ -10,13 +10,16 @@
 <h3 align ="right" color ="red"> I write code.</h3>
 
      
- - 🔭 I’m currently focused on C++ & Python devlopments including some DSA. 
-     
-- 🌱 I’m more into Machine Learning  projects and exploration.
-  
-- 💬 Ask me about C, C++, Python and DSA. 
-  
-- ⚡ Fun fact: I love building personal projects to solve real‑world problems through code.
+<h2 align="center">🌙 About Me</h2>
+
+<p align="center">
+  <em>
+  A mind that wanders between logic and imagination.<br>
+  I love creating things that speak — whether it’s through design, words, or rhythm.<br>
+  I’m drawn to moments of silence, deep conversations, and the thrill of turning ideas into something real.<br><br>
+  Growth, to me, is art — and I’m here to keep evolving, learning, and building my own story one step at a time 🌿
+  </em>
+</p>
 
 </p>
 
