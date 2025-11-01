@@ -3,8 +3,7 @@
 
 <h1 align="center">
   Hey, I'm Utkarsh
-  <img src="<img width="529" height="529" alt="image" src="https://github.com/user-attachments/assets/2f256a15-8a4c-403f-8944-fb0d8d080060" />
-" width="40" >
+  <img width="40" height="529" alt="image" src="https://github.com/user-attachments/assets/2f256a15-8a4c-403f-8944-fb0d8d080060" />
 </h1>
 
      
