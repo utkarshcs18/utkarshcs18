@@ -54,7 +54,7 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="twt"/>
   </a>
   <a >
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/mail.gif" width="80" height="100" alt="mail"/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="mail"/>
   </a>
  </p>
 
