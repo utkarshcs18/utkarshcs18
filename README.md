@@ -43,13 +43,13 @@
 
 ---
 <p align = "right">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="graph"/>
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
- <p align = "right">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="100" height="1000" alt="graph"/>
+ <p align = "left">
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="100" height="1000" alt="discord"/>
  </p>
- <p align = "right">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="100" height="1000" alt="graph"/>
+ <p align = "left">
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="100" height="1000" alt="twt"/>
  </p>
 
 ---
