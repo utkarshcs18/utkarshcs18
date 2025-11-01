@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right " width="40" height="529" alt ="tech-stack" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif"/>
+<img align="right " width="50" height="529" alt ="tech-stack" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif"/>
       
 
  <p align="left">
