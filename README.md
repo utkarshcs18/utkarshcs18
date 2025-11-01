@@ -1,5 +1,5 @@
 <h1>
-<img src = "<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4a45b78e-0688-4bb9-83df-829e806b0759" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4a45b78e-0688-4bb9-83df-829e806b0759" />
 </h1>
 
 
