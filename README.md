@@ -22,7 +22,9 @@
 
 ---
 
-<img align="left" width="50" height="529" alt="tech-stack" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="200" height="auto" alt="tech-stack" style="float:left; margin-right: 20px;" />
+</p>
 
       
 <div align="center">
