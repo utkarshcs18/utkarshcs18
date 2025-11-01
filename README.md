@@ -46,7 +46,7 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
  <p align = "left">
-   <a href="" target="_blank">
+   <a href="https://canary.discord.com/channels/@me" target="_blank">
       <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord" />
   </a>
    
