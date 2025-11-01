@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="50" height="529" alt="tech-stack"/>
 </p>
     
-<div align="center">
+<div align="left">
   <img  src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,figma&theme=dark" />
 </div>
 
