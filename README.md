@@ -33,7 +33,7 @@
 
 ---  
  <p align = "right">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="50" height="529" alt="graph"/>
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="50" height="600" alt="graph"/>
  </p>
  
 <p align="center">
