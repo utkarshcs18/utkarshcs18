@@ -23,9 +23,8 @@
 ---
   <tr>
     <td align="center" width="50%">
-      <p align="right ">
-       <img width="40" height="529" alt ="tech-stack" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
-      </p>
+       <img align="right " width="40" height="529" alt ="tech-stack" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif "/>
+      
 
  <p align="left">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
