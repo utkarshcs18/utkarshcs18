@@ -60,5 +60,5 @@
 
 ---
 <h3 align ="right"> Jump. Duck. Build. Repeat. </h3>
-<img width="100%" height="200" alt="hello" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dino.gif"/>
+<img width="100%" height="250" alt="hello" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dino.gif"/>
 
