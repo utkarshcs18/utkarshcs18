@@ -26,23 +26,20 @@
   <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="50" height="529" alt="tech-stack"/>
 </p>
     
-<div align="left">
+<div align="center">
   <img  src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,figma&theme=dark" />
 </div>
 
 
 ---  
+ <p align = "right">
+   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="50" height="529" alt="graph"/>
+ </p>
  
- <td align="center" width="50%">
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Stats+⚡️" alt="Stats" />
-      </p>
-     <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" alt="GitHub Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcs.18&theme=github-dark" alt="GitHub Stats" />
+</p>
+  
 
 ---
 <p align="center">
