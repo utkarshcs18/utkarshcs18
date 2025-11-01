@@ -2,7 +2,7 @@
 <img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/line.gif"/>
 
 <h1 align="center">
-  Hey, I'm Utkarsh
+  Between chaos and calm, I choose to build — Utkarsh.
   <img width="40" height="529" alt="image" src="https://github.com/user-attachments/assets/2f256a15-8a4c-403f-8944-fb0d8d080060" />
 </h1>
 
