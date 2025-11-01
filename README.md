@@ -1,4 +1,4 @@
-<img src = "![main](https://github.com/user-attachments/assets/24153aa2-3ed9-4ccc-aab4-de78e58c52b0)">
+<img src = "![main](https://github.com/user-attachments/assets/24153aa2-3ed9-4ccc-aab4-de78e58c52b0)" width = "100" >
 
 
 
