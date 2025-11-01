@@ -46,7 +46,10 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
  <p align = "left">
-   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord"/>
+   <a href="" target="_blank">
+      <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord" />
+  </a>
+   
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="twt"/>
  </p>
 
