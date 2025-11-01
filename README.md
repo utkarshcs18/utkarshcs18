@@ -1,5 +1,5 @@
 
-<img width="1800" height="800" alt="image" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
+<img width="2400" height="600" alt="image" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
 
 
 <h1 align="left">
