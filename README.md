@@ -46,11 +46,13 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
  <p align = "left">
-   <a href="https://canary.discord.com/channels/@me" target="_blank">
+   <a href="https://canary.discord.com/channels/@me" target="_main">
       <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord" />
   </a>
-   
+
+  <a href="https://x.com/utkarshcs18" target="_main">
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="twt"/>
+  </a>
  </p>
 
 ---
