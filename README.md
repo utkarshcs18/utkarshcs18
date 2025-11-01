@@ -24,10 +24,12 @@
 
 <img align="right " width="50" height="529" alt ="tech-stack" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif"/>
       
-
- <div align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9e9e9e&lines=C++;Python;Java;HTML;CSS;JavaScript;Git;GitHub;Figma" />
+  <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,figma&theme=dark" />
 </div>
+
 
 ---  
  
