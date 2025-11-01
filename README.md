@@ -45,24 +45,17 @@
 <p align = "right">
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
- <p align = "left">
+ <p align = "center">
    <a href="https://canary.discord.com/channels/@me" target="_blank">
       <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord" />
   </a>
-
   <a href="https://x.com/utkarshcs18" target="_blank">
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="twt"/>
   </a>
-  <a >
+  <a href="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect%20and%20talk%20about%20.%20.%20.." target="_blank">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="mail"/>
   </a>
  </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=F7931E,F15BB5,00BBF9,00F5D4,9B5DE5&center=true&vCenter=true&width=340&lines=Hyperlinks+⚡️" alt="Divider" />
-</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshcs18)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect%20and%20talk%20about%20.%20.%20..">)
