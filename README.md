@@ -46,16 +46,19 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
  <p align = "center">
+     <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect." target="_blank">
+  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="email"/>
+</a>
    <a href="https://canary.discord.com/channels/@me" target="_blank">
       <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="discord" />
   </a>
   <a href="https://x.com/utkarshcs18" target="_blank">
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="twt"/>
   </a>
-  <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect." target="_blank">
-  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="email"/>
-</a>
+
  </p>
 
 ---
+<h3 align ="right"> Jump. Duck. Build. Repeat. </h3>
+<img width="100%" height="200" alt="hello" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dino.gif"/>
 
