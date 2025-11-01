@@ -1,6 +1,11 @@
+<img src = "![main](https://github.com/user-attachments/assets/24153aa2-3ed9-4ccc-aab4-de78e58c52b0)">
+
+
+
+
 <h1 align="left">
   Hey, I'm Utkarsh
-  <img src="https://github.com/user-attachments/assets/b8f097c4-46d4-4fbb-9a84-cc6344088440" width="40" />
+  <img src="https://github.com/user-attachments/assets/b8f097c4-46d4-4fbb-9a84-cc6344088440" width="40" >
 </h1>
 
      
