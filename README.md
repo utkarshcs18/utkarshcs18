@@ -7,15 +7,8 @@
 </h1>
 
      
-<h3> A 2nd‑Year Student, a Passionate developer and a Learner.</h3>
-</p>
+<h3 align ="right" color ="red"> I write code.</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     alt="Coding"
-     align="right"
-     width="320" />
-
-<p>
      
  - 🔭 I’m currently focused on C++ & Python devlopments including some DSA. 
      
