@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Between chaos and calm, I choose to build — Utkarsh.
-  <img width="50" height="200" alt="image" src="https://github.com/utkarshcs18/cool_gifs/blob/main/cool.jpg" />
+  <img width="50" height="200" alt="image" src="https://raw.github.com/utkarshcs18/cool_gifs/main/cool.jpg" />
 </h1>
 
      
@@ -20,7 +20,7 @@
 </p>
 
 
----
+<img width = "100%" alt = "line" src =" https://raw.github.com/utkarshcs18/cool_gifs/main/line2.png"/>
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="100" height="1000" alt="tech-stack"/>
