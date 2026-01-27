@@ -39,7 +39,7 @@
  </p>
  
 <p align="center">
-<<img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
   
 
