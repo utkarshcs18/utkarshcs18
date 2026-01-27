@@ -53,11 +53,11 @@
   <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect." target="_blank">
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" />
   </a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://canary.discord.co" target="_blank">
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" />
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/utkarshcs18" target="_blank">
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" />
   </a>
