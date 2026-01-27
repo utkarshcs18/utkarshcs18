@@ -61,7 +61,7 @@
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://utkarshvoid.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/realm.jpeg" width="80" height="100" alt="profile link"/>
+    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/realm.jpeg" width="80" height="100" border-radius= "10px"alt="profile link"/>
   </a>
 </p>
 
