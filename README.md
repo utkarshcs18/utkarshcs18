@@ -60,9 +60,6 @@
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="Twitter X profile link"/>
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://utkarshvoid.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/realm.jpeg" width="80" height="100" border-radius= "10px"alt="profile link"/>
-  </a>
 </p>
 
 <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
