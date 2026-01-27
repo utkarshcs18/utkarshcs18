@@ -33,10 +33,6 @@
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
 </p>
 
-<p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="100" height="1000" alt="GitHub activity graph decoration"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats - Contributions and Activity"/>
