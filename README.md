@@ -39,7 +39,7 @@
  </p>
  
 <p align="center">
-    <img src="" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=utkarshcs18" alt="GitHub Stats" />
 </p>
   
 
