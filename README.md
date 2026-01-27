@@ -1,8 +1,8 @@
-<img width="100%" height="350" alt="Utkarsh Kumar - Software Developer - GitHub Profile Banner" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
+<img width="100%" height="350" alt="GitHub Profile Banner" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
 
 <h1 align="center">
   Between chaos and calm, I choose to build — Utkarsh.
-  <img width="80" height="80" alt="Utkarsh Kumar Profile Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dogesh.jpeg"/>
+  <img width="80" height="80" alt="Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dogesh.jpeg"/>
 </h1>
 
 <h3 align="center">
@@ -22,10 +22,10 @@
   </em>
 </p>
 
-<img width="100%" alt="animated section divider" src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
+<img width="100%" alt="animated section divider" src="https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif"/>
 
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="vertical tech stack divider"/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech stack "/>
 </p>
 
 <div align="center">
