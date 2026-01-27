@@ -5,10 +5,6 @@
   <img width="80" height="80" alt="Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dogesh.jpeg"/>
 </h1>
 
-<h3 align="center">
-  Software Developer • C++ • Python • Web Development
-</h3>
-
 <img width="100%" alt="animated divider line" src="https://raw.github.com/utkarshcs18/cool_gifs/main/line.gif"/>
 
 <h3 align="right">I write code.</h3>
@@ -22,7 +18,7 @@
   </em>
 </p>
 
-<img width="100%" alt="animated section divider" src="https://raw.github.com/utkarshcs18/cool_gifs/main/stack.gif"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech-stack"/>
 
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech stack "/>
