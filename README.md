@@ -24,7 +24,7 @@
 <img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/line2.png"/>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/stack.gif" width="100" height="1000" alt="tech-stack"/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech-stack"/>
 </p>
     
 <div align="center">
