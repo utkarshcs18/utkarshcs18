@@ -39,7 +39,7 @@
  </p>
  
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=utkarshcs18&theme=dark-smoky&border_radius=11.5" alt="GitHub Streak" /></a>
+<<img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=radical" alt="GitHub Streak" /></a>
 </p>
   
 
