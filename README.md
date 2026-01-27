@@ -18,9 +18,9 @@
   </em>
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="tech-stack"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="tech stack "/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
 </p>
 
 <div align="center">
@@ -28,7 +28,10 @@
        alt="Tech Stack: C, C++, Python, Java, HTML, CSS, JavaScript, Git, GitHub, Figma"/>
 </div>
 
-<img width="100%" alt="animated section separator" src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<p align="right">
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+</p>
 
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="100" height="1000" alt="GitHub activity graph decoration"/>
@@ -36,10 +39,13 @@
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
-       alt="Utkarsh Kumar GitHub Streak Stats - Contributions and Activity"/>
+       alt="GitHub Streak Stats - Contributions and Activity"/>
 </p>
 
-<img width="100%" alt="animated line break" src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<p align="right">
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+</p>
 
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="coding animation graphic"/>
@@ -60,7 +66,10 @@
   </a>
 </p>
 
-<img width="100%" alt="animated footer divider" src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<p align="right">
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+</p>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
