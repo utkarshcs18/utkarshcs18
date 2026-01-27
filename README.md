@@ -39,7 +39,7 @@
  </p>
  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=utkarshcs18" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Utkarsh&theme=dark-smoky&border_radius=11.5" alt="GitHub Stats" />
 </p>
   
 
