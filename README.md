@@ -21,7 +21,7 @@
 </p>
 
 
-<img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/line2.png"/>
+<img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
 
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech-stack"/>
@@ -32,7 +32,7 @@
 </div>
 
 
-<img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/line2.png"/>
+<img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
   
  <p align = "right">
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="100" height="1000" alt="graph"/>
@@ -43,7 +43,7 @@
 </p>
   
 
-<img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/line2.png"/>
+<img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
 
 <p align = "right">
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
