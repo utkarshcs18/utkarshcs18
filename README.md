@@ -18,9 +18,9 @@
   </em>
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech-stack"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="tech-stack"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="100" height="1000" alt="tech stack "/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="tech stack "/>
 </p>
 
 <div align="center">
