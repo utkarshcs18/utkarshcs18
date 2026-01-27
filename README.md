@@ -5,7 +5,7 @@
   <img width="80" height="80" alt="Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dogesh.jpeg"/>
 </h1>
 
-<img width="100%" alt="animated divider line" src="https://raw.github.com/utkarshcs18/cool_gifs/main/line.gif"/>
+<img width="100%" alt="animated divider line" src="raw.https://github.com/utkarshcs18/cool_gifs/main/pacman.gif"/>
 
 <h3 align="right">I write code.</h3>
 
