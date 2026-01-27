@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="Email Utkarsh Kumar"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://canary.discord.co" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/754007827256705078" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="Discord profile link"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
