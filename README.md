@@ -47,6 +47,7 @@
 </p>
 
 <p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect."
      target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="Email Utkarsh Kumar"/>
