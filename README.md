@@ -39,8 +39,7 @@
  </p>
  
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Utkarsh&theme=dark-smoky&border_radius=11.5" alt="GitHub Stats" /></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Utkarsh&theme=dark-smoky&border_radius=11.5" alt="GitHub Streak" /></a></p>
   
 
 <img width = "100%" alt = "line" src ="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif"/>
