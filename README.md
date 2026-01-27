@@ -49,7 +49,7 @@
    <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="100" height="1000" alt="code"/>
  </p>
  <p align="center">
-  <span style="display: flex; justify-content: center; gap: 40px;">
+  <span style="display: flex; justify-content: space-evenly; gap: 40px;">
     
   <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect." target="_blank">
       <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="email"/>
