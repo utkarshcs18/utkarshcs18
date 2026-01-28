@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Between chaos and calm, I choose to build — Utkarsh.
-  <img width="180" height="80" alt="Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/ryuk.gif"/>
+  <img width="100" height="100" object-fit="fill" alt="Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/ryuk.gif"/>
 </h1>
 
 <img width="100%" height ="50" alt="animated divider line" src="https://raw.github.com/utkarshcs18/cool_gifs/main/pacman.gif"/>
