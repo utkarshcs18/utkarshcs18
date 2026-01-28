@@ -1,6 +1,6 @@
 <img width="100%" height="350" alt="GitHub Profile Banner" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
 
-<h1 align="center">
+<h1 align="center" padding="20px">
   Between chaos and calm, I choose to build — Utkarsh.
   <img width="100" height="100" object-fit="fill" alt="Picture" src="https://raw.github.com/utkarshcs18/cool_gifs/main/ryuk.gif"/>
 </h1>
