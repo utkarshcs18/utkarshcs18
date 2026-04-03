@@ -23,8 +23,8 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,github,figma&theme=dark"
-       alt="Tech Stack: C, C++, Python, Java, HTML, CSS, JavaScript, Git, GitHub, Figma"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,node.js, express.js,git,github,figma&theme=dark"
+       alt="Tech Stack: C, C++, Python, Java, HTML, CSS, JavaScript,Node.js, Express.js, Git, GitHub, Figma"/>
 </div>
 
 <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
