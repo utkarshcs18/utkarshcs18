@@ -1,4 +1,4 @@
-<img width="100%" height="500px" alt="GitHub Profile Banner" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
+<img width="100%" height="400px" alt="GitHub Profile Banner" src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/main.gif"/>
 
 <h1 align="center">
   Between chaos and calm, I choose to build — Utkarsh.
