@@ -17,9 +17,9 @@
   </em>
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator""/>
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 <img src="https://github.com/utkarshcs18/cool_gifs/blob/main/new_line.gif
 " width="200" height="1000" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator""/>
 </p>
 
 <p align="center">
@@ -37,9 +37,9 @@
        alt="GitHub Streak Stats - Contributions and Activity"/>
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator""/>
 </p>
 
 <p align="right">
@@ -63,9 +63,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator""/>
 </p>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
