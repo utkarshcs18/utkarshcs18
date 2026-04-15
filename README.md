@@ -33,6 +33,7 @@
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="120" alt="coding animation graphic"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
@@ -42,9 +43,6 @@
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="120" alt="coding animation graphic"/>
 </p>>
 
-<p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="120" alt="coding animation graphic"/>
-</p>
 
 <p align="center">
   <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect."
