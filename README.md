@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="20"/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="0"/>
 </p>
 
 <div align="center">
