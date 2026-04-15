@@ -58,9 +58,9 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</div>
+</p>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
