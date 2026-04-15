@@ -26,8 +26,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,express,mongodb,git,github,figma&theme=dark"
        alt="Tech Stack: C, C++, Python, Java, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Git, GitHub, Figma"/>
 </div>
-
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator"/>
+<img src="https://github.com/utkarshcs18/cool_gifs/blob/main/new_line.gif
+" width="200" height="1000" alt="animated section separator"/>
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="1000" alt="animated section separator""/>
 </p>
