@@ -30,14 +30,17 @@
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
 </p>
 
+<p align="right">
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/graph.gif" width="120" alt="coding animation graphic"/>
+</p>
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
 </p>
 
-<div style="display: flex; justify-content: flex-end; width: 100%;">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</div>
+<p align="left">
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="120" alt="coding animation graphic"/>
+</p>>
 
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="120" alt="coding animation graphic"/>
