@@ -19,7 +19,6 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
 </div>
 
 <div align="center">
@@ -27,18 +26,18 @@
        alt="Tech Stack"/>
 </div>
 
-<p align="center">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</p>
+</div>
 
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="120" alt="coding animation graphic"/>
@@ -59,9 +58,9 @@
   </a>
 </p>
 
-<p align="center">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</p>
+</div>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
