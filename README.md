@@ -26,7 +26,7 @@
        alt="Tech Stack"/>
 </div>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: flex-end; width: 100%;">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
 </div>
 
