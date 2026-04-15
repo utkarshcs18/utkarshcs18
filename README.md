@@ -26,9 +26,9 @@
        alt="Tech Stack"/>
 </div>
 
-<div style="display: flex; justify-content: flex-end; width: 100%;">
+<p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</div>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
