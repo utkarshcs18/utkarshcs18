@@ -39,6 +39,11 @@
        alt="GitHub Streak Stats"/>
 </p>
 
+
+<p align="left">
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
+</p>
+
 <p align="right">
   <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/code.gif" width="120" alt="coding animation graphic"/>
 </p>
