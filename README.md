@@ -17,9 +17,9 @@
   </em>
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator""/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10" alt="animated section separator""/>
 </p>
 
 <div align="center">
@@ -50,22 +50,22 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:utkarshkumar.cs18@gmail.com?subject=Excited%20to%20Connect!&body=Hey%20there!%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20connect."
      target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="100" alt="Email Utkarsh Kumar"/>
+    <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/email.gif" width="80" height="10" alt="Email Utkarsh Kumar"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/754007827256705078" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="100" alt="Discord profile link"/>
+    <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/discord.gif" width="80" height="10" alt="Discord profile link"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/utkarshcs18" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="100" alt="Twitter X profile link"/>
+    <img src="https://raw.githubusercontent.com/utkarshcs18/cool_gifs/main/twt.gif" width="80" height="10" alt="Twitter X profile link"/>
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator"/>
+<img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10" alt="animated section separator"/>
 <p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="100" alt="animated section separator""/>
+  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10" alt="animated section separator""/>
 </p>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
