@@ -26,7 +26,7 @@
 </div>
 <br>
 <br>
-<p align="right">
+<p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
 </p>
