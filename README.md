@@ -35,8 +35,6 @@
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
-<img width="100%" height="250px" alt="animated dinosaur coding game footer" src="https://raw.github.com/utkarshcs18/cool_gifs/main/dino.gif"/>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=utkarshcs18&color=ff69b4" alt="Profile Views"/>
 </p>
