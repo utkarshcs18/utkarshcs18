@@ -15,33 +15,20 @@
     Growth, to me, is art and I'm here to keep evolving, learning, and building my own story one step at a time 🌿
   </em>
 </p>
-
-<p align="left">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10" />
-</p>
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,express,mongodb,git,github,figma&theme=dark"
        alt="Tech Stack"/>
 </div>
 
-<p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
 </p>
 
-<p align="left">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</p>
-
-
-<p align="right">
-  <img src="https://raw.github.com/utkarshcs18/cool_gifs/main/new_line.gif" width="200" height="10"/>
-</p>
+<br/>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
