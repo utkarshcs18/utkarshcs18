@@ -16,18 +16,22 @@
   </em>
 </p>
 <br>
+<hr>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,express,mongodb,git,github,figma&theme=dark"
        alt="Tech Stack"/>
 </div>
 
+<br>
+<br>
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
 </p>
 <br>
+<hr>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
