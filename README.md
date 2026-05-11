@@ -15,7 +15,7 @@
     Growth, to me, is art and I'm here to keep evolving, learning, and building my own story one step at a time 🌿
   </em>
 </p>
-<br/>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,nodejs,express,mongodb,git,github,figma&theme=dark"
@@ -27,8 +27,7 @@
   <img src="https://streak-stats.vercel.app/?user=utkarshcs18&theme=tokyonight"
        alt="GitHub Streak Stats"/>
 </p>
-
-<br/>
+<br>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
 
