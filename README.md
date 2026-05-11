@@ -15,7 +15,6 @@
     Growth, to me, is art and I'm here to keep evolving, learning, and building my own story one step at a time 🌿
   </em>
 </p>
-<br>
 <hr>
 
 <h3 align="right">Jump. Duck. Build. Repeat.</h3>
@@ -31,7 +30,6 @@
        alt="GitHub Streak Stats"/>
 </p>
 <br>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=utkarshcs18&color=ff69b4" alt="Profile Views"/>
 </p>
