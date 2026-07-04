@@ -8,10 +8,10 @@ building consistently.
 --------------
 Connect With Me
 
-» GitHub      -> https://github.com/utkarshcs18
-» X / Twitter -> https://x.com/utkarshcs18
-» Portfolio   -> https://utkarshcs.vercel.app/
-» Email       -> utkarshkumar.cs18@gmail.com
+» GitHub      -> [utkarshcs18](https://github.com/utkarshcs18)
+» X / Twitter -> [@utkarshcs18](https://x.com/utkarshcs18)
+» Portfolio   -> [utkarshcs.vercel.app](https://utkarshcs.vercel.app)
+» Email       -> [utkarshkumar.cs18@gmail.com](mailto:utkarshkumar.cs18@gmail.com)
 
 
 --------------
