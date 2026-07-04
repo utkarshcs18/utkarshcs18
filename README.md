@@ -5,7 +5,6 @@
 learning relentlessly.
 building consistently.
 
-
 --------------
 Connect With Me
 
@@ -27,18 +26,20 @@ Skills & Tools
 
 
 --------------
-
 Currently Exploring:
 » Machine Learning
 » AI Agents
 » Intelligent Automation
 » Developer Tools
 
---------------
 
+--------------
 Thanks for stopping by! :)
 
 Feel free to say hi & share ideas
 
 Let's build something cool together <3
 ```
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=utkarshcs18&color=ff69b4" alt="Profile Views"/>
+</p>
