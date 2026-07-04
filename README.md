@@ -38,7 +38,6 @@ Currently Exploring:
 Thanks for stopping by! :)
 
 Feel free to say hi & share ideas
-
 Let's build something cool together <3
 ```
 <p align="left">
