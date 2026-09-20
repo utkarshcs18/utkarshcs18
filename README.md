@@ -10,9 +10,10 @@ building consistently.
 Skills & Tools
 
 » Languages   : C, C++, Python, JavaScript
+» Frameworks  : React
 » Backend     : Node.js, Express
-» Frontend    : React, HTML5, CSS3,
 » Databases   : MySQL, MongoDB
+» Data & ML   : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 » DevOps      : Git, Linux, Docker
 » Interests   : ML, AI Agents, Automation
 
