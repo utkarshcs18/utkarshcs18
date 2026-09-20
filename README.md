@@ -7,15 +7,6 @@ building consistently.
 
 
 --------------
-Connect With Me
-
-» GitHub      -> https://github.com/utkarshcs18
-» X / Twitter -> https://x.com/utkarshcs18
-» Portfolio   -> https://heyutkarsh.site
-» Email       -> utkarshkumar.cs18@gmail.com
-
-
---------------
 Skills & Tools
 
 » Languages   : C, C++, Python, JavaScript
