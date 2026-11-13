@@ -29,7 +29,6 @@ Currently Exploring:
 
 --------------
 Cooking, and you can get the recipe anytime.
-Thanks for stopping by! :)
 
 Feel free to say hi & share ideas
 Let's build something cool together <3
